@@ -6,4 +6,7 @@
   <properties
       key="Importance"
       value="10"/>
+  <properties
+      key="Cost"
+      value="level 3"/>
 </archimate:ApplicationComponent>
