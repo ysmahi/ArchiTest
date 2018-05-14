@@ -1,15 +1,11 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Test"
-    id="1393"/><archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financial Application"
-    id="1399"
-    documentation="My very useful documentation">
+    id="1399">
+  <properties
+      key="Strength"
+      value="8"/>
   <properties
       key="Importance"
-      value="108"/>
-  <properties
-      key="Cost"
-      value="Big 3"/>
+      value="1"/>
 </archimate:ApplicationComponent>
