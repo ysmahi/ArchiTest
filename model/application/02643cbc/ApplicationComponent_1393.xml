@@ -6,4 +6,7 @@
   <properties
       key="Quality"
       value="Good"/>
+  <properties
+      key="Length"
+      value="2m"/>
 </archimate:ApplicationComponent>
