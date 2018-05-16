@@ -9,4 +9,7 @@
   <properties
       key="Length"
       value="2m"/>
+  <properties
+      key="Age"
+      value="22"/>
 </archimate:ApplicationComponent>
