@@ -1,1 +1,15 @@
-<archimate:ApplicationComponent xmlns:archimate="http://www.archimatetool.com/archimate" name="Financial Application version 2" id="1399" documentation="My perfect documentation version 1 and version 2"><properties key="Strength" value="8"/><properties key="Importance" value="1"/><properties key="Color" value="Blue"/></archimate:ApplicationComponent>
+<archimate:ApplicationComponent 
+    xmlns:archimate="http://www.archimatetool.com/archimate" 
+    name="Financial Application version 2" 
+    id="1399" 
+    documentation="My perfect documentation version 1 and version 2">,
+  <properties 
+    key="Strength" 
+    value="8"/>,
+  <properties 
+    key="Importance" 
+    value="1"/>,
+  <properties 
+    key="Color" 
+    value="Blue"/>,
+</archimate:ApplicationComponent>,
