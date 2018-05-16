@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CRM System"
-    id="1393"/>
+    id="1393"
+    documentation="This is my documentation !">
+  <properties
+      key="Quality"
+      value="Good"/>
+</archimate:ApplicationComponent>
