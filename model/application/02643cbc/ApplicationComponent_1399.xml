@@ -9,4 +9,7 @@
   <properties
       key="Difficulty"
       value="3"/>
+  <properties
+      key="Colour"
+      value="Blue"/>
 </archimate:ApplicationComponent>
