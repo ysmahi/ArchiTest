@@ -2,14 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financial Application"
     id="1399"
-    documentation="www.documentation/FinancialApplication.com">
+    documentation="Go to this link: www.documentation/FinancialApplication.com">
   <properties
       key="Importance"
-      value="1"/>
+      value="2"/>
   <properties
       key="Difficulty"
       value="Hard"/>
   <properties
-      key="Colour"
-      value="Blue"/>
+      key="Version"
+      value="1.0"/>
 </archimate:ApplicationComponent>
