@@ -1,15 +1,12 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CRM System v1"
+    name="CRM System"
     id="1393"
     documentation="This is my documentation !">
   <properties
       key="Quality"
       value="Good"/>
   <properties
-      key="Length"
-      value="2m"/>
-  <properties
-      key="Age"
-      value="22"/>
+      key="Importance"
+      value="2"/>
 </archimate:ApplicationComponent>
