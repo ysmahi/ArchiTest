@@ -1,21 +1,12 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Financial Application v2.0"
+    name="Financial Application"
     id="1399"
-    documentation="My perfect documentation version 1 and version 2. Do not hesitate to use it.  Or contact us. Thanks !">
+    documentation="www.documentation/FinancialApplication.com">
   <properties
-      key="Strength"
-      value="80"/>
+      key="Importance"
+      value="1"/>
   <properties
-      key="Color"
-      value="Blue and black"/>
-  <properties
-      key="Solid"
-      value="Yes"/>
-  <properties
-      key="hasAI"
-      value="Yes 100%"/>
-  <properties
-      key="Length"
-      value="2m10"/>
+      key="Difficulty"
+      value="3"/>
 </archimate:ApplicationComponent>
